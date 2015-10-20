@@ -69,6 +69,18 @@ msgid "Sold Total"
 msgstr "Summe"
 
 #. module: website_sale
+#: view:website:website_sale.payment
+msgid "Validate Order"
+msgstr "bestätige Daten"
+
+#. module: website_sale
+#: code:addons/website_sale/controllers/main.py:697
+#: view:website:website_sale.payment
+#, python-format
+msgid "Pay Now"
+msgstr "jetzt bezahlen"
+
+#. module: website_sale
 #: view:website:website_sale.cart
 #: view:website:website_sale.product
 msgid "Add to Cart"
